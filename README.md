@@ -1,0 +1,2 @@
+# docsify_auto_gen_sidebar
+docsify自动遍历当前目录下md文档生成_sidebar.md
