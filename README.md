@@ -7,7 +7,7 @@ docsify自动遍历当前目录下md文档生成_sidebar.md
 
 **有时候中文目录并不需要自动再生成index.md，我们默认让根目录路由到该目录下的第一个文件**
 
-### Example
+# Example
 (菠萝狗用户手册 Py-Apple Dog Manual)[http://padog.com.cn/#/index.md]
 
 (Arduino 磁场定向控制 (FOC) 的简易项目)[http://www.simplefoc.cn/#/]
